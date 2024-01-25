@@ -403,12 +403,12 @@ section { word-break: keep-all; }
 	text-indent: -9999px;
 }
 .main_slider .controller #pause_play.pause {
-	background: url(../pc_img/btn_mega_bnr_pause.png) no-repeat center right -1.5px;
+	background: url(https://gitnaim.github.io/resource/web_publisher/project1/btn_mega_bnr_pause.png) no-repeat center right -1.5px;
 	background-color: rgba(86, 86, 85, 0.736);
 	border-radius: 20px;
 }
 .main_slider .controller #pause_play.play {
-	background: url(../pc_img/btn_mega_bnr_play.png) no-repeat center right -1.5px;
+	background: url(https://gitnaim.github.io/resource/web_publisher/project1/btn_mega_bnr_play.png) no-repeat center right -1.5px;
 	background-color:rgba(86, 86, 85, 0.736);
 	border-radius: 20px;
 }
@@ -471,7 +471,7 @@ section { word-break: keep-all; }
 
 #page2 {
 	padding: 90px 0 100px;
-	background: url(../pc_img/bg_bestshop.jpg) no-repeat center center;
+	background: url(https://gitnaim.github.io/resource/web_publisher/project1/bg_bestshop.jpg) no-repeat center center;
 }
 #page2 .inner {
 	margin: 0 auto;
@@ -658,7 +658,7 @@ section { word-break: keep-all; }
 	height: 20px;
 	text-indent: -9999px;
 	overflow: hidden;
-	background: url(../pc_img/icon_right.png) no-repeat;
+	background: url(https://gitnaim.github.io/resource/web_publisher/project1/icon_right.png) no-repeat;
 }
 @media only screen and (max-width:1400px){
 	#page3 .inner {padding: 0 30px;}
@@ -813,7 +813,7 @@ section { word-break: keep-all; }
 	transform: translateY(-50%);
 	width: 10px;
 	height: 20px;
-	background: url(../pc_img/icon_right.png) no-repeat;
+	background: url(https://gitnaim.github.io/resource/web_publisher/project1/icon_right.png) no-repeat;
 }
 #page5 .inner .announcement .content h4 {
 	padding: 17px 10px;
@@ -856,7 +856,7 @@ section { word-break: keep-all; }
 	transform: translateY(-50%);
 	width: 10px;
 	height: 20px;
-	background: url(../pc_img/icon_right.png) no-repeat;
+	background: url(https://gitnaim.github.io/resource/web_publisher/project1/icon_right.png) no-repeat;
 }
 #page5 .inner .consulting .que {
 	width: 295.59px;
@@ -955,7 +955,7 @@ color: #000;
 	transform: translateY(-50%);
 	width: 10px;
 	height: 20px;
-	background: url(../pc_img/icon_right.png) no-repeat;
+	background: url(https://gitnaim.github.io/resource/web_publisher/project1/icon_right.png) no-repeat;
 }
 
 footer {
@@ -1059,7 +1059,7 @@ footer .bottom .inner .adress p {
 	text-indent: -9999px;
 }
 #open_close {
-	background: url(../pc_img/ico_arrow_bt.svg) no-repeat center right;
+	background: url(https://gitnaim.github.io/resource/web_publisher/project1/ico_arrow_bt.svg) no-repeat center right;
 }
 #open_close.open { 
 	transform: rotate(0deg);
